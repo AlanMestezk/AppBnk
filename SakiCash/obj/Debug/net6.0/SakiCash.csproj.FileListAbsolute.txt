@@ -1,0 +1,15 @@
+C:\Users\andre\Downloads\c#\SakiCash\SakiCash\bin\Debug\net6.0\SakiCash.exe
+C:\Users\andre\Downloads\c#\SakiCash\SakiCash\bin\Debug\net6.0\SakiCash.deps.json
+C:\Users\andre\Downloads\c#\SakiCash\SakiCash\bin\Debug\net6.0\SakiCash.runtimeconfig.json
+C:\Users\andre\Downloads\c#\SakiCash\SakiCash\bin\Debug\net6.0\SakiCash.dll
+C:\Users\andre\Downloads\c#\SakiCash\SakiCash\bin\Debug\net6.0\SakiCash.pdb
+C:\Users\andre\Downloads\c#\SakiCash\SakiCash\obj\Debug\net6.0\SakiCash.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\c#\SakiCash\SakiCash\obj\Debug\net6.0\SakiCash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\c#\SakiCash\SakiCash\obj\Debug\net6.0\SakiCash.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\c#\SakiCash\SakiCash\obj\Debug\net6.0\SakiCash.AssemblyInfo.cs
+C:\Users\andre\Downloads\c#\SakiCash\SakiCash\obj\Debug\net6.0\SakiCash.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\c#\SakiCash\SakiCash\obj\Debug\net6.0\SakiCash.dll
+C:\Users\andre\Downloads\c#\SakiCash\SakiCash\obj\Debug\net6.0\refint\SakiCash.dll
+C:\Users\andre\Downloads\c#\SakiCash\SakiCash\obj\Debug\net6.0\SakiCash.pdb
+C:\Users\andre\Downloads\c#\SakiCash\SakiCash\obj\Debug\net6.0\SakiCash.genruntimeconfig.cache
+C:\Users\andre\Downloads\c#\SakiCash\SakiCash\obj\Debug\net6.0\ref\SakiCash.dll
